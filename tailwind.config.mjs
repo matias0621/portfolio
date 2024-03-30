@@ -5,7 +5,6 @@ export default {
     extend: {
       animation: {
         "animate-zoom-in": "zoom-in 1s ease-in-out",
-		
       },
     },
   },
